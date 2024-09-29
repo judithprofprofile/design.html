@@ -1,0 +1,133 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container-one {
+    background-color: #acc7a3;
+    width: 100%;
+    height: 100vh;
+}
+.container-two {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.form {
+    background-color: white;
+    width: 450px;
+    border-radius: 10px;
+    padding: 20px 20px;
+}
+.baby-one {
+    color: #193d0a;
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.baby-two {
+    margin-top: 30px;
+    display: flex;
+}
+#box1{
+    width: 200px;
+    padding: 6px 8px;
+    border-radius: 6px;
+    border-color: #193d0a;
+    border-width: 1px;
+    margin-top: 5px;
+}
+#box2{
+    width: 200px;
+    padding: 6px 8px;
+    border-radius: 6px;
+    border-color: #193d0a;
+    border-width: 1px;
+    margin-top: 5px;
+}
+.baby-three {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+
+#text {
+    color: #193d0a;
+    font-size: 25px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+#box3 {
+    width: 426px;
+    padding: 6px 8px;
+    border-radius: 6px;
+    border-color: #193d0a;
+    border-width: 1px;
+    margin-top: 5px;
+}
+
+label {
+    font-size: 10px;
+    font-family: "Roboto", sans-serif;
+}
+.baby-four {
+    display: flex;
+    margin-top: 30px;
+}
+.btn1 {
+    background-color: white;
+    border-color: #193d0a;
+    border-width: 1px;
+    width: 217px;
+    display: flex;
+    justify-content: center;
+    padding: 6px 0px;
+    border-radius: 6px;
+}
+
+p {
+    margin-left: 8px;
+    font-family: "Roboto", sans-serif;
+    font-size: 10px;
+    margin-top: 1px;
+}
+
+.btn2 {
+    .btn1 
+        background-color: white;
+        border-color: #193d0a;
+        border-width: 1px;
+        width: 217px;
+        display: flex;
+        justify-content: center;
+        padding: 6px 0px;
+        border-radius: 6px;
+        margin-left: 10px;
+}
+.baby-five {
+    margin-top: 30px;
+    border-color: #193d0a;
+}
+.baby-six {
+    display: flex;
+    margin-top: 30px;
+}
+.baby-seven {
+    display: flex;
+    justify-content: center;
+    width: 450px;
+    text-align: center;
+    margin-top: 30px;
+    padding: 8px 0px;
+    background-color: #0b572c;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+
